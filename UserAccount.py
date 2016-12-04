@@ -11,7 +11,7 @@ class UserAccount :
         :param secret: user's secret, accessible only with password (string)
         """
         self.username=username
-        #Complete the __init__ method a
+        #Complete the __init__ method
 
     def print_password(self,password_attempt):
         """
